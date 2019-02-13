@@ -1,0 +1,11 @@
+framework module Structism {
+  umbrella header "Structism.h"
+
+  export *
+  module * { export * }
+}
+
+module Structism.Swift {
+    header "Structism-Swift.h"
+    requires objc
+}
