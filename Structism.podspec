@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "Structism"
-  s.version      = "0.0.2"
+  s.version      = "0.0.3"
   s.summary      = "This is the Structism iOS Framework"
   s.description  = "This is some description"
 
